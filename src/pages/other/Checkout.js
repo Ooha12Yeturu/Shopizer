@@ -98,6 +98,7 @@ const paymentForm = {
         // message: "Postal code is required"
       }
     }
+    
   },
   phone: {
     name: "phone",
